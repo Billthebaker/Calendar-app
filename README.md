@@ -28,3 +28,5 @@ Edit or delete existing events as needed.
 Event creation with customizable options (e.g. recurring events, reminders)
 Schedule views Hourly format
 Edit and delete existing events
+
+![image](https://user-images.githubusercontent.com/107649623/228262728-ef4ae53c-db8a-4f61-94f2-51bb3d686987.png)
